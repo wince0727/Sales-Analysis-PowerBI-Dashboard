@@ -13,7 +13,7 @@ This project presents an interactive Power BI dashboard created using sales data
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard Preview](main/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Files Included
 - `Sales_Dashboard.pbix` – Power BI dashboard file  
